@@ -1,6 +1,6 @@
 # SouthBDHub-poster
 
-poster presented at [South Hub All Hands Meeting ](https://southbigdatahub.org/calendar/2019allhands/)
+poster presented at [South Big Data Hub 2019 All Hands Meeting](https://southbigdatahub.org/calendar/2019allhands/)
 
 ## Authors
 Sena Agezo, Tamara Dahl, Nael McCarty, Elyse Morin, David Nicholson, Stephanie Prince, Kaitlyn Roman, Lance Waller.
